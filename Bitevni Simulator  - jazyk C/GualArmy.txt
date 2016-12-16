@@ -1,0 +1,9 @@
+Gual
+Martin
+50000
+Crossbowman
+100
+Pikeman
+60
+Maceman
+150

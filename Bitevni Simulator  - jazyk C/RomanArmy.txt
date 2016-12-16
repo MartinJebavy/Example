@@ -1,0 +1,9 @@
+Roman
+Jeby
+50000
+Archer
+150
+Swordsman
+20
+Knight
+20
